@@ -4,13 +4,13 @@
   "description": "Edits the previous message when sending a message beginning with *",
   "author": {
     "name": "Ultrablob",
-    "discordID": "1084595298808115230",
+    "discordID": "555056898542403584",
     "github": "ultra-bob"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "AgentRBY/RepluggedCapitalize"
+    "id": "Ultra-bob/SmartEdit"
   },
   "license": "MIT",
   "type": "replugged-plugin",
