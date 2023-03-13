@@ -1,6 +1,8 @@
-# Replugged Capitalize plugin
+# Replugged Smart Edit Plugin
 
-This plugin capitalizes the first letter of the first word in a message. Ignores if the message
-starts with a link
+[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=Ultra-bob/SmartEdit&source=github)
 
-![DiscordCanary_SHdyxgUQHl](https://user-images.githubusercontent.com/68181944/209027175-73263d77-b500-485c-9e5f-96397c1f20b7.gif)
+This plugin automagically edits your previous message when you send a message with an asterisk. To
+understand this see the image below
+
+![DemoImage](smart_edit_demo.webp)
