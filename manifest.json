@@ -1,0 +1,18 @@
+{
+  "id": "dev.ultrablob.SmartEdit",
+  "name": "Smart Edit",
+  "description": "Edits the previous message when sending a message beginning with *",
+  "author": {
+    "name": "Ultrablob",
+    "discordID": "1084595298808115230",
+    "github": "ultra-bob"
+  },
+  "version": "1.0.0",
+  "updater": {
+    "type": "github",
+    "id": "AgentRBY/RepluggedCapitalize"
+  },
+  "license": "MIT",
+  "type": "replugged-plugin",
+  "renderer": "src/index.ts"
+}
