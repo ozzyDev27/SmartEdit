@@ -4,7 +4,7 @@ import path, { join } from "path";
 import fs, { existsSync, rmSync } from "fs";
 import _manifest from "../manifest.json";
 import { Plugin } from "replugged/dist/types/addon";
-
+// hehe i have infiltrated code
 const manifest: Plugin = _manifest;
 
 const NODE_VERSION = "14";
