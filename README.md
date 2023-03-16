@@ -5,4 +5,6 @@
 This plugin automagically edits your previous message when you send a message with an asterisk. To
 understand this see the image below
 
+I have infiltrated the readme heheheheh
+
 ![DemoImage](smart_edit_demo.webp)
